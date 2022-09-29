@@ -20,7 +20,7 @@ The depth calculator function is designed to make its way from the node towards 
 
 ## Exercise 2
 
-The second exercise works on the assumption that you have blast installed on your computer, and you can call the blast commands (i.e. makeblastdb and blastp) from your shell. However, if that's not the case you should call first install blast and its exectuables from [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download). Afterwards, if you don't have the blastp/makeblastdb commands availables, you can call them using the following sintax:
+The second exercise works on the assumption that you have blast installed on your computer, and you can call the blast commands (i.e. makeblastdb and blastp) from your shell. However, if that's not the case you should call first install blast and its exectuables from [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download). Afterwards, if you don't have the blastp/makeblastdb commands available, you can call them using the following sintax:
 ```
 /path/to/ncbi-blast-2.13.0+/bin/makeblastdb
 ```
